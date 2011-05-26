@@ -6,6 +6,6 @@
 	<com.google.android.maps.MapView
 		android:id="@+id/mapview" android:layout_width="fill_parent"
 		android:layout_height="fill_parent" android:clickable="true"
-		android:apiKey="YOUR_API_KEY" />
+		android:apiKey="05gnQdbf36jCmTWrt-vUP81XPPznhEHYJj6b8mg" />
 
 </RelativeLayout>
